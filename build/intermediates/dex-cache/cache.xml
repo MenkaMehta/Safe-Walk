@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\59e6083de588fdea6129bd46597c135849bcdcf3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\SafeWalk\app\build\intermediates\pre-dexed\debug\classes_1381ceeac67aa0fbc70d762c45c1f1ba6123de93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\cd26fe3c63df1110601d14c65f26e3483d8b2c66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\SafeWalk\app\build\intermediates\pre-dexed\debug\classes_360668f873c5ac3c0a16e29baca3cc92242a25f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\76a42a6549071445b552e78da17d798271553f63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\SafeWalk\app\build\intermediates\pre-dexed\debug\classes_49af537305808761b3aa14b48f4843b887b167d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\0884be1e97da7d80a0f7b5e31d1b2edcb7db5185\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\SafeWalk\app\build\intermediates\pre-dexed\debug\classes_df307f122aab6af6da4e4bd804cd789f3a89d783.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\67a6bf766f02de028f17cf664bdbf55afd3d7494\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\SafeWalk\app\build\intermediates\pre-dexed\debug\classes_fc7eef9d06d9b59de6358b181252c24061e804ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\40c923dec00959b5b45b7c0846b9482f5ebf7fd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\SafeWalk\app\build\intermediates\pre-dexed\debug\classes_2873b0e0f8a552d92acd20384ff6302952a4075b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\400eba719e8dc6a47cc450782285a8c2ceff34e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\SafeWalk\app\build\intermediates\pre-dexed\debug\classes_2b494ae59bdcf5456e14f5f248075f17a435cd82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\39455ad91cc4f83725749526fcbf4c89046a3501\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\SafeWalk\app\build\intermediates\pre-dexed\debug\classes_af44e872979fde0e88ae981f6fc5e1a06e5818dd.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "750056765536",
+    "firebase_url": "https://safewalk-b358f.firebaseio.com",
+    "project_id": "safewalk-b358f",
+    "storage_bucket": "safewalk-b358f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750056765536:android:12e85ff3157874f3",
+        "android_client_info": {
+          "package_name": "com.mad.safewalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750056765536-7jc36jvse18v4650hkf2rk27reujogo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mad.safewalk",
+            "certificate_hash": "92a25e7360a323dfd92556f839467b5711c23498"
+          }
+        },
+        {
+          "client_id": "750056765536-f74e8dlfb023tg2sq7e89ti8vo0grc6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zqphngHmNdQ_bxpQ2G7hzLwxBhlJtgE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750056765536-f74e8dlfb023tg2sq7e89ti8vo0grc6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
