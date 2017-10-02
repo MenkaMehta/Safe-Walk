@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context=".SafeWalkActivity">
+
+<item
+    android:id="@+id/facebook_Activity"
+    android:orderInCategory="100"
+    android:title="@string/post_on_facebook"
+    app:showAsAction="never" />
+
+<item
+    android:id="@+id/emergency_contacts"
+    android:orderInCategory="100"
+    android:title="@string/add_emergency_contacts"
+    app:showAsAction="never" />
+
+<item
+    android:id="@+id/messageActivity"
+    android:orderInCategory="100"
+    android:title="@string/add_emergency_message"
+    app:showAsAction="never" />
+
+</menu>
