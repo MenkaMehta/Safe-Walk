@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mad.safewalk;
+package com.mad.safewalk.view;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -24,6 +24,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.mad.safewalk.R;
 import com.mad.safewalk.util.Constants;
 
 /**

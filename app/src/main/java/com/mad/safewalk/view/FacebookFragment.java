@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.mad.safewalk;
+package com.mad.safewalk.view;
 
 import android.content.Context;
 import android.content.Intent;
@@ -46,6 +46,7 @@ import com.facebook.login.widget.LoginButton;
 import com.facebook.share.ShareApi;
 import com.facebook.share.model.ShareHashtag;
 import com.facebook.share.model.ShareLinkContent;
+import com.mad.safewalk.R;
 import com.mad.safewalk.util.Constants;
 
 

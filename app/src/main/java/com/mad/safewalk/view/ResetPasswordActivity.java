@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.mad.safewalk;
+package com.mad.safewalk.view;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -28,6 +28,7 @@ import android.widget.Toast;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
+import com.mad.safewalk.R;
 
 /**
  * This class lets the user reset password

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.mad.safewalk;
+package com.mad.safewalk.view;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -35,6 +35,7 @@ import android.widget.TextView;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.mad.safewalk.R;
 import com.mad.safewalk.service.Accelerometer;
 
 /**

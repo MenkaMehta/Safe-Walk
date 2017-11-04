@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.mad.safewalk;
+package com.mad.safewalk.view;
 
 import android.Manifest;
 import android.content.Context;
@@ -52,6 +52,7 @@ import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
+import com.mad.safewalk.R;
 import com.mad.safewalk.model.Contact;
 import com.mad.safewalk.model.ContactList;
 import com.mad.safewalk.util.Constants;

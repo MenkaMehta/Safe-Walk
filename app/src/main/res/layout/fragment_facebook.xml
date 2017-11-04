@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/facebook"
-    tools:context=".FacebookFragment">
+    tools:context=".view.FacebookFragment">
 
     <RelativeLayout
         android:layout_width="match_parent"

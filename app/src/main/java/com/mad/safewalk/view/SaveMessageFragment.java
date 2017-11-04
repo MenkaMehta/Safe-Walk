@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.mad.safewalk;
+package com.mad.safewalk.view;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -26,6 +26,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.mad.safewalk.R;
 import com.mad.safewalk.util.Constants;
 
 import java.io.File;
