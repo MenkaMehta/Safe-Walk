@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_place_black"
+            android:title="Your Location" />
+        <item
+            android:id="@+id/nav_emerg_contact"
+            android:icon="@drawable/ic_person_add"
+            android:title="Emergency Contacts" />
+        <item
+            android:id="@+id/nav_save_message"
+            android:icon="@drawable/ic_textsms_black"
+            android:title="Emergency Message" />
+        <item
+            android:id="@+id/nav_facebook"
+            android:icon="@drawable/ic_facebook"
+            android:title="Facebook" />
+    </group>
+
+    <item android:title="Exit">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_exit_to_app"
+                    android:title="Log Out" />
+        </menu>
+    </item>
+
+</menu>

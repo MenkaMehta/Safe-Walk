@@ -37,12 +37,14 @@
             android:layout_height="wrap_content"
             android:text = "Number"
             android:layout_weight="1"/>
+
         <EditText
+            android:id="@+id/addContact_editTextNumber"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:hint = "eg. 0420455345"
             android:layout_weight="1"
-            android:id="@+id/addContact_editTextNumber"/>
+            android:hint="eg. 0420455345"
+            android:inputType="phone" />
 
     </LinearLayout>
 

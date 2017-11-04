@@ -5,6 +5,7 @@
     <color name="colorAccent">#FF4081</color>-->
 
     <!--<color name="colorPrimary">#00bcd4</color>-->
+    <color name="colorother">#ffffcc</color>
     <color name="colorPrimary">#ffffcc</color>
     <color name="colorPrimaryDark">#009933</color>
     <!--<color name="colorAccent">#f2fe71</color>-->
@@ -23,5 +24,6 @@
     <color name="lbl_name">#333333</color>
     <color name="btn_logut_bg">#ff6861</color>
     <color name="lightgreen">#2ed1ae</color>
-
+    <color name="facebook">#3A5894</color>
+    <color name="greenlight">#81C784</color>
 </resources>

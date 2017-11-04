@@ -50,5 +50,34 @@
     <string name="country"> Country: </string>
     <string name="help_image">helpImage.jpg</string>
     <string name="title_activity_maps">Map</string>
+    <string name="MainContact">Menka Mehta</string>
+    <string name="current_location">Current Location: </string>
+    <string name="latitude">Latitude: </string>
+    <string name="longitude">Longitude: </string>
+    <string name="location_not_found">Current Location not found</string>
+    <string name="GoogleAPIClient_Suspended">GoogleApiClient has been suspended</string>
+    <string name="GoogleAPIClient_Failed">"GoogleApiClient failed to connect"</string>
+    <string name="alert">ALERT</string>
+    <string name="title_activity_main_navigation">MainNavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menka_mehta">Menka Mehta</string>
+    <string name="website_main">menka@saibaba.info</string>
+    <string name="onAuthChange_signIn">onAuthStateChanged:signed_in:</string>
+    <string name="onAuthChange_signOut">onAuthStateChanged:signed_out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="welcome_message">Welcome </string>
+    <string name="wall_post">LOGIN TO POST ON WALL</string>
+    <string name="successful_post">You have successfully posted on your wall</string>
+    <string name="operation_cancel">"Operation Cancelled"</string>
+    <string name="facebook_error">Facebook Error</string>
+    <string name="google_link">https://www.google.com/maps/search/</string>
+
+    <string name="your_location">Your Location</string>
+
+    <string name="facebook_app_id">1919502088317532</string>
 
 </resources>
